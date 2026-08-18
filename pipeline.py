@@ -14,34 +14,34 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
-# ---------- 1. Load ----------
+
 df = pd.read_csv("tickets_dataset.csv")
 df["text"] = df["subject"] + " " + df["body"]
 
-# ---------- 2. Clean ----------
+
 def clean_text(text: str) -> str:
     text = text.lower()
-    text = re.sub(r"http\S+|www\.\S+", " ", text)          # urls
-    text = re.sub(r"\S+@\S+", " ", text)                    # emails
-    text = re.sub(r"[^a-z\s]", " ", text)                   # punctuation/numbers/noise
-    text = re.sub(r"\s+", " ", text).strip()                 # collapse whitespace
+    text = re.sub(r"http\S+|www\.\S+", " ", text)          
+    text = re.sub(r"\S+@\S+", " ", text)                   
+    text = re.sub(r"[^a-z\s]", " ", text)                  
+    text = re.sub(r"\s+", " ", text).strip()                
     tokens = [w for w in text.split() if w not in ENGLISH_STOP_WORDS and len(w) > 1]
     return " ".join(tokens)
 
 df["clean_text"] = df["text"].apply(clean_text)
 
-# ---------- 3. Split ----------
+
 X_train, X_test, y_train, y_test = train_test_split(
     df["clean_text"], df["category"],
     test_size=0.2, random_state=42, stratify=df["category"]
 )
 
-# ---------- 4. Vectorize ----------
+
 vectorizer = TfidfVectorizer(ngram_range=(1, 1), min_df=1, max_df=0.85, sublinear_tf=True)
 X_train_vec = vectorizer.fit_transform(X_train)
 X_test_vec = vectorizer.transform(X_test)
 
-# ---------- 5. Train (compare NB vs LR) ----------
+
 nb = MultinomialNB(alpha=0.05)
 nb.fit(X_train_vec, y_train)
 
@@ -53,23 +53,17 @@ lr_acc = accuracy_score(y_test, lr.predict(X_test_vec))
 print(f"Naive Bayes accuracy: {nb_acc:.3f}")
 print(f"Logistic Regression accuracy: {lr_acc:.3f}")
 
-# Accuracy alone isn't the whole story here: with only 60 training tickets,
-# Logistic Regression's predict_proba comes out nearly uniform across all four
-# classes (~0.20-0.37 everywhere), which makes a confidence-based manual-review
-# threshold useless. Naive Bayes' probabilities are far better separated between
-# a confident call and a genuinely ambiguous one, which is what the routing
-# logic below depends on. So model choice isn't accuracy-only - it factors in
-# whether the model's confidence output is actually usable downstream.
+
 model = nb
 print(f"Selected model: {model.__class__.__name__} (chosen for usable confidence separation, not just raw accuracy)")
 
-# ---------- 6. Evaluate ----------
+
 y_pred = model.predict(X_test_vec)
 print(classification_report(y_test, y_pred))
 print(confusion_matrix(y_test, y_pred, labels=sorted(df["category"].unique())))
 
-# ---------- 7. Real-time classify: confidence, review threshold, priority ----------
-CONFIDENCE_THRESHOLD = 0.60  # below this, don't auto-assign - route to manual review instead
+
+CONFIDENCE_THRESHOLD = 0.60  
 
 URGENT_KEYWORDS = {
     "urgent", "asap", "immediately", "down", "broken", "crash", "crashed",
