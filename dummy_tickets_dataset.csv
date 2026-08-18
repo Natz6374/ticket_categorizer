@@ -1,0 +1,121 @@
+subject,body,category
+Duplicate charge,"Hey support, I was charged twice for my subscription this month and need a refund. Thanks in advance.",Billing
+Product information - 22,Could someone explain what services your company currently offers? Please let me know what I should do next.,General
+Notification bug,Could you help me? I am not receiving notifications after enabling the setting.,Technical
+Browser issue,"Please help, The page freezes in Chrome after I click the submit button.",Technical
+Prorated billing,"Please help, Will I receive a prorated refund if I downgrade my plan today? Please look into this.",Billing
+Notification bug,"Hi team, I am not receiving notifications after enabling the setting. I need help because the account portal is not working and I also have a general account question.",Technical
+Invoice copy - 22,"Hello, Please send me a copy of my latest invoice for accounting. I would appreciate your help.",Billing
+Attendance,"Good morning, Where can I check my attendance record for this month? I need help with a reimbursement on my company card and want to know the process.",HR
+Company information,"Hello, Can you share more information about your organization and services? I would appreciate your help.",General
+Integration failure,The calendar integration stopped syncing with our account. Please look into this.,Technical
+Leave balance - 1,"Hi team, How many annual leave days do I have remaining this year? I would appreciate your help. This is urgent and needs attention immediately. My email is user@example.com.",HR
+Prorated billing,Could you help me? Will I receive a prorated refund if I downgrade my plan today? This is causing inconvenience.,Billing
+Unexpected fee,"Hey support, There is an unexpected fee on my latest bill that I do not understand. Thanks in advance.",Billing
+Benefits,Could you help me? Could you explain the health insurance benefits available to employees? This is causing inconvenience.,HR
+Application crash,"Please help, The dashboard crashes whenever I open the reports page. Thanks in advance. I need help because the account portal is not working and I also have a general account question.",Technical
+Refund request,Could you help me? I cancelled my plan but was still billed and want the charge refunded. This is urgent and needs attention immediately.,Billing
+Contact request,"Hey support, I am not sure which department handles this request. Who should I contact? This is causing inconvenience. This is urgent and needs attention immediately.",General
+Holiday policy,Could you help me? What is the company policy for public holiday leave?,HR
+Sick leave - 22,"Good morning, Please confirm my sick leave balance and available days. Please let me know what I should do next.",HR
+Unexpected fee,Could you help me? There is an unexpected fee on my latest bill that I do not understand.,Billing
+Unexpected fee,"Good morning, There is an unexpected fee on my latest bill that I do not understand. I would appreciate your help. The finance team asked me about my employee reimbursement and the invoice is unclear.",Billing
+Product information,"Hello, Could someone explain what services your company currently offers? This is causing inconvenience. I am having an account issue and would like to know which team can help; the page sometimes fails to load.",General
+Sick leave,"Please help, Please confirm my sick leave balance and available days.",HR
+Holiday policy,"Good morning, What is the company policy for public holiday leave? I would appreciate your help. I need help with a reimbursement on my company card and want to know the process.",HR
+Feedback,"Hi team, I wanted to share some feedback about my experience using the service.",General
+Payroll question,"Good morning, My salary payment appears different from the amount on my payslip. Please let me know what I should do next.",HR
+Parental leave - 8,"Hello, I would like information about the parental leave process.",HR
+Payroll question,"Hey support, My salary payment appears different from the amount on my payslip. I would appreciate your help.",HR
+API error,"Please help, Our API requests are returning a server error and integration has stopped. Thanks in advance.",Technical
+Subscription charge - 29,Could you help me? The subscription amount on my statement is different from what I expected. This is causing inconvenience.,Billing
+Feature suggestion,"Please help, It would be useful if the platform added a bulk export feature. Please let me know what I should do next. This is urgent and needs attention immediately.",General
+Parental leave,"Please help, I would like information about the parental leave process. Thanks in advance.",HR
+Invoice copy,"Please help, Please send me a copy of my latest invoice for accounting. Please look into this. The finance team asked me about my employee reimbursement and the invoice is unclear.",Billing
+Browser issue,"Hi team, The page freezes in Chrome after I click the submit button. I would appreciate your help.",Technical
+Payroll question,"Hey support, My salary payment appears different from the amount on my payslip. I would appreciate your help. I need help with a reimbursement on my company card and want to know the process.",HR
+Application crash,"Good morning, The dashboard crashes whenever I open the reports page.",Technical
+Company information,Could you help me? Can you share more information about your organization and services? I would appreciate your help.,General
+Employee documents - 29,Where can I download my employment documents? I need help with a reimbursement on my company card and want to know the process.,HR
+Feedback,"Hi team, I wanted to share some feedback about my experience using the service. Please let me know what I should do next.",General
+Upgrade price,Could you help me? How much will I be charged if I upgrade my current subscription? Please look into this. The finance team asked me about my employee reimbursement and the invoice is unclear.,Billing
+Documentation question,"Hi team, Where can I find the general documentation and getting-started guide? Please look into this.",General
+Duplicate charge - 1,Could you help me? I was charged twice for my subscription this month and need a refund. Please look into this. This is urgent and needs attention immediately. My email is user@example.com. The finance team asked me about my employee reimbursement and the invoice is unclear.,Billing
+Sales inquiry - 8,"Hey support, I would like to speak with someone about using your product for our business. I am having an account issue and would like to know which team can help; the page sometimes fails to load.",General
+Slow dashboard,"Please help, The application is extremely slow when loading the analytics dashboard. I would appreciate your help.",Technical
+API error,Could you help me? Our API requests are returning a server error and integration has stopped.,Technical
+Upgrade price,"Good morning, How much will I be charged if I upgrade my current subscription? Please look into this.",Billing
+Broken upload,Could you help me? File uploads fail every time even though the files are valid. Please look into this.,Technical
+Integration failure,"Hello, The calendar integration stopped syncing with our account. Please let me know what I should do next.",Technical
+Cannot log in,Could you help me? I keep getting an invalid credentials error when trying to sign in. I would appreciate your help.,Technical
+Payment method,"Good morning, I need to update the credit card used for monthly payments. Please let me know what I should do next.",Billing
+Integration failure,"Good morning, The calendar integration stopped syncing with our account. Thanks in advance.",Technical
+Slow dashboard,"Please help, The application is extremely slow when loading the analytics dashboard. I would appreciate your help.",Technical
+Business inquiry,"Good morning, We would like to discuss a possible collaboration with your team. Please let me know what I should do next. I am having an account issue and would like to know which team can help; the page sometimes fails to load.",General
+Broken upload,Could you help me? File uploads fail every time even though the files are valid. Thanks in advance. I need help because the account portal is not working and I also have a general account question.,Technical
+Feature suggestion,It would be useful if the platform added a bulk export feature. I am having an account issue and would like to know which team can help; the page sometimes fails to load.,General
+Subscription charge,"Hi team, The subscription amount on my statement is different from what I expected. Please look into this.",Billing
+Cannot log in - 1,"Good morning, I keep getting an invalid credentials error when trying to sign in. Please look into this. This is urgent and needs attention immediately. My email is user@example.com.",Technical
+Broken upload,Could you help me? File uploads fail every time even though the files are valid. Thanks in advance. I need help because the account portal is not working and I also have a general account question.,Technical
+Payment failed,My card was declined during renewal even though the account has funds. Thanks in advance.,Billing
+Browser issue - 29,The page freezes in Chrome after I click the submit button. Thanks in advance.,Technical
+Payslip request,I need a copy of my latest payslip for a personal record. Please look into this. I need help with a reimbursement on my company card and want to know the process.,HR
+System outage - 8,"Hello, The service is down for our team and we cannot use the application. Thanks in advance.",Technical
+Invoice copy,"Hi team, Please send me a copy of my latest invoice for accounting.",Billing
+Contact request,Could you help me? I am not sure which department handles this request. Who should I contact? Thanks in advance.,General
+Sales inquiry,"Good morning, I would like to speak with someone about using your product for our business. I would appreciate your help.",General
+Partnership inquiry,Our agency is interested in discussing a referral partnership with your platform. Please look into this. I am having an account issue and would like to know which team can help; the page sometimes fails to load.,General
+Subscription charge,The subscription amount on my statement is different from what I expected. I would appreciate your help. The finance team asked me about my employee reimbursement and the invoice is unclear.,Billing
+Payslip request,"Hi team, I need a copy of my latest payslip for a personal record. This is urgent and needs attention immediately.",HR
+Password reset,The password reset link is not working and I cannot access my account.,Technical
+Employee documents,"Hello, Where can I download my employment documents?",HR
+Company information,Could you help me? Can you share more information about your organization and services? This is causing inconvenience. I am having an account issue and would like to know which team can help; the page sometimes fails to load.,General
+Feature suggestion,"Hello, It would be useful if the platform added a bulk export feature. Please look into this.",General
+System outage,Could you help me? The service is down for our team and we cannot use the application. Please look into this. My email is user@example.com. I need help because the account portal is not working and I also have a general account question.,Technical
+Password reset,"Good morning, The password reset link is not working and I cannot access my account. Thanks in advance.",Technical
+Attendance - 15,"Good morning, Where can I check my attendance record for this month? Please look into this.",HR
+Upgrade price - 15,Could you help me? How much will I be charged if I upgrade my current subscription? Please let me know what I should do next.,Billing
+Sales inquiry,"Hello, I would like to speak with someone about using your product for our business. Please let me know what I should do next. My email is user@example.com. I am having an account issue and would like to know which team can help; the page sometimes fails to load.",General
+Payment method,"Please help, I need to update the credit card used for monthly payments. Thanks in advance. This is urgent and needs attention immediately. The finance team asked me about my employee reimbursement and the invoice is unclear.",Billing
+Documentation question - 29,"Please help, Where can I find the general documentation and getting-started guide?",General
+Leave balance,"Hi team, How many annual leave days do I have remaining this year? This is causing inconvenience.",HR
+Parental leave,"Hello, I would like information about the parental leave process. My email is user@example.com.",HR
+Product information,"Please help, Could someone explain what services your company currently offers? Please let me know what I should do next.",General
+Notification bug,I am not receiving notifications after enabling the setting. Please look into this. This is urgent and needs attention immediately.,Technical
+Partnership inquiry,"Hey support, Our agency is interested in discussing a referral partnership with your platform. I would appreciate your help.",General
+Tax invoice,Can you provide a tax invoice for the payment made last week? Please look into this.,Billing
+Payslip request,"Hey support, I need a copy of my latest payslip for a personal record. I would appreciate your help.",HR
+Account question,"Hey support, I have a general question about my accnt and need some guidance. Thanks in advance.",General
+Password reset,The password reset link is not working and I cannot access my account. Thanks in advance. I need help because the account portal is not working and I also have a general account question.,Technical
+Tax invoice - 8,"Please help, Can you provide a tax invoice for the payment made last week? This is causing inconvenience.",Billing
+Tax invoice,"Hey support, Can you provide a tax invoice for the payment made last week? Please look into this. My email is user@example.com.",Billing
+Account question,"Please help, I have a general question about my account and need some guidance. Please look into this.",General
+Account question,"Hello, I have a general question about my account and need some guidance. Thanks in advance.",General
+Benefits,"Hey support, Could you explain the health insurance benefits available to employees? Please let me know what I should do next.",HR
+Business inquiry - 15,"Hi team, We would like to discuss a possible collaboration with your team. Please look into this. I am having an accnt issue and would like to know which team can help; the page sometimes fails to load.",General
+Benefits,"Hello, Could you explain the health insurance benefits available to employees? Please let me know what I should do next. This is urgent and needs attention immediately. I need help with a reimbursement on my company card and want to know the process.",HR
+Contact request,"Hello, I am not sure which department handles this request. Who should I contact?",General
+Business inquiry,"Please help, We would like to discuss a possible collaboration with your team. I would appreciate your help.",General
+Slow dashboard - 15,"Hey support, The application is extremely slow when loading the analytics dashboard. I would appreciate your help. I need help because the accnt portal is not working and I also have a general accnt question.",Technical
+Documentation question,"Please help, Where can I find the general documentation and getting-started guide? Please let me know what I should do next.",General
+Duplicate charge,"Hello, I was charged twice for my subscription this month and need a refund. Please let me know what I should do next. The finance team asked me about my employee reimbursement and the invoice is unclear.",Billing
+Employee documents,"Please help, Where can I download my employment documents? Please let me know what I should do next.",HR
+Application crash - 22,"Hello, The dashboard crashes whenever I open the reports page. This is causing inconvenience.",Technical
+Payment failed,"Hey support, My card was declined during renewal even though the account has funds. I would appreciate your help.",Billing
+Prorated billing,"Hi team, Will I receive a prorated refund if I downgrade my plan today? I would appreciate your help.",Billing
+Cannot log in,"Good morning, I keep getting an invalid credentials error when trying to sign in. Thanks in advance. I need help because the account portal is not working and I also have a general account question.",Technical
+Holiday policy,What is the company policy for public holiday leave? Please look into this.,HR
+Leave approval,"Hey support, My leave request is pending and I want to know who approves it.",HR
+System outage,"Hello, The service is down for our team and we cannot use the application. Please look into this.",Technical
+Payment method,"Please help, I need to update the credit card used for monthly payments. Please look into this.",Billing
+Sick leave,"Please help, Please confirm my sick leave balance and available days. This is causing inconvenience.",HR
+Leave approval,"Hey support, My leave request is pending and I want to know who approves it. Please look into this. I need help with a reimbursement on my company card and want to know the process.",HR
+API error,"Hello, Our API requests are returning a server error and integration has stopped. Thanks in advance. This is urgent and needs attention immediately.",Technical
+Feedback,I wanted to share some feedback about my experience using the service. I would appreciate your help.,General
+Refund request,"Hi team, I cancelled my plan but was still billed and want the charge refunded. Please look into this.",Billing
+Leave balance,"Please help, How many annual leave days do I have remaining this year? This is causing inconvenience. I need help with a reimbursement on my company card and want to know the process.",HR
+Leave approval,"Good morning, My leave request is pending and I want to know who approves it. Please let me know what I should do next.",HR
+Attendance,Where can I check my attendance record for this month? Please look into this.,HR
+Payment failed,"Please help, My card was declined during renewal even though the account has funds. I would appreciate your help. The finance team asked me about my employee reimbursement and the invoice is unclear.",Billing
+Refund request,"Hello, I cancelled my plan but was still billed and want the charge refunded. I would appreciate your help.",Billing
+Partnership inquiry - 1,"Hey support, Our agency is interested in discussing a referral partnership with your platform. This is causing inconvenience. This is urgent and needs attention immediately. My email is user@example.com.",General
