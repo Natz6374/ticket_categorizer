@@ -1,0 +1,61 @@
+subject,body,category
+Overcharged on my last invoice,"Hi, I just checked my card statement and I was charged 49.99 twice for this month's subscription. Can someone look into this and refund the extra charge?",Billing
+Refund request for cancelled plan,"I cancelled my Pro plan on the 3rd but I still got billed on the 5th. I need this refunded asap, this is the second time it's happened.",Billing
+Question about invoice #4521,"hey team, could you send me a copy of invoice 4521? my accountant needs it for tax filing and i can't find it in the portal anywhere",Billing
+Credit card declined during renewal,My subscription renewal failed and it says my card was declined but I have plenty of balance. Is there an issue on your end with payments?,Billing
+Downgrade plan and prorated charge,I want to downgrade from the Team plan to Basic. Will I get a prorated refund for the unused days this month or does it just apply next cycle?,Billing
+Wrong amount deducted,"you guys deducted 1200 instead of 999 from my account today, this is not okay, please fix and return the extra amount immediately",Billing
+Subscription still active after cancellation,I cancelled 2 weeks ago through the settings page but I can see the subscription is still marked active and I'm worried I'll be charged again next month.,Billing
+Discount code not applied at checkout,I tried the SAVE20 coupon at checkout but the total didn't change at all. Can you apply it manually or refund the difference?,Billing
+Need GST details on receipt,Could you please update our GST number on future invoices? The last two receipts were generated without it and our finance team flagged it.,Billing
+Upgrade cost clarification,"if i upgrade to the enterprise tier mid cycle, do i pay the full price or just the difference for the remaining days left in this billing period",Billing
+Duplicate transaction on statement,My bank statement shows two identical transactions of 15.99 on the same day for what should be one payment. Please investigate and reverse one.,Billing
+Annual plan billing question,We're considering switching from monthly to annual billing. Does the discount apply automatically or do we need to contact sales first?,Billing
+Payment failed but amount deducted,the payment page showed 'transaction failed' but the money was still deducted from my account. where did that money go and when will it be reversed,Billing
+Request for old invoices,Could someone send me all invoices from January to June this year? Need them for an internal audit by end of week.,Billing
+Charged after free trial without notice,I wasn't notified that my free trial was ending and I got charged the full amount. I would like this refunded since I didn't get a heads up.,Billing
+App crashes on launch,"Every time I open the mobile app it crashes within 2 seconds, doesn't even load the home screen. Happening since the last update on Android 14.",Technical
+Unable to log in - error 500,"I keep getting a 500 internal server error when trying to log in from the web app. Tried clearing cache and incognito mode, same result.",Technical
+Sync not working between devices,"changes i make on desktop are not showing up on my phone app, tried logging out and back in but still not syncing properly",Technical
+File upload stuck at 0%,Uploading a CSV file to the dashboard gets stuck at 0% and never progresses. File is only 2MB so it shouldn't be a size issue.,Technical
+API returning 403 errors,Our integration started throwing 403 Forbidden errors this morning even though our API key hasn't changed. Did something change on your side?,Technical
+Dashboard loading extremely slow,"the analytics dashboard takes almost 40 seconds to load now, it used to be instant last week. is there a known performance issue currently",Technical
+Password reset link not working,I requested a password reset email but when I click the link it just says 'this link has expired' even though I clicked it within a minute.,Technical
+Export feature throwing error,"Trying to export my report to PDF and it just shows a red error banner saying 'export failed, please try again' every single time.",Technical
+Two-factor authentication not sending code,"2fa codes are not arriving on my phone via sms, i've tried resending 5 times, could be a carrier issue but wanted to flag it here",Technical
+Integration with Slack broken,Our Slack notifications stopped coming through after the recent update. The connection shows as active in settings but nothing gets posted.,Technical
+Search function returns no results,"typing any keyword into the search bar returns zero results even for things i know exist in my account, was working fine yesterday",Technical
+Bug: duplicate entries after refresh,"Whenever I refresh the page, all my task list items get duplicated. Now I have the same 20 tasks showing up 3 times each.",Technical
+Video playback buffering constantly,"videos in the training section keep buffering every few seconds even on a fast connection, tested on wifi and mobile data both",Technical
+App not opening on iOS after update,"After updating to the latest version from the App Store, the app just shows a white screen and never loads. Restarted phone, still broken.",Technical
+Data not saving on form submit,"I fill out the settings form, hit save, and it shows success but when I reload the page all my changes are gone. Something's wrong with saving.",Technical
+Leave application for next week,I would like to apply for casual leave from the 24th to the 26th for a family function. Please let me know if I need to fill any additional form.,HR
+Query about maternity leave policy,Could you share the current maternity leave policy document? I want to plan ahead and understand how many weeks are covered and the process to apply.,HR
+Payroll discrepancy this month,"my payslip this month shows a deduction i don't recognize under 'misc' category, can hr clarify what this is for before i escalate further",HR
+Onboarding documents pending,I joined last Monday but haven't received the onboarding checklist or access to the HR portal yet. Could someone help me get set up?,HR
+Resignation notice submission,I am writing to formally submit my resignation effective one month from today. Please advise on the exit process and handover requirements.,HR
+Work from home policy clarification,"is there a cap on how many days per month we can work from home, or is it left to the manager's discretion under the new hybrid policy",HR
+Health insurance enrollment deadline,"when is the last date to enroll my spouse under the group health insurance plan, i missed the reminder email and don't want to miss the deadline",HR
+Complaint regarding workplace behavior,I would like to raise a formal complaint about a colleague's repeated inappropriate comments during team meetings. I'd like to discuss this confidentially.,HR
+ID card and access badge not working,"my access badge stopped working at the main entrance since yesterday, security let me in manually but this needs to be fixed for tomorrow",HR
+Performance review schedule,Could you confirm when the mid-year performance review cycle starts? My manager mentioned it but I haven't seen anything on the HR calendar.,HR
+Salary revision query,I was told my salary revision would reflect from this month's payroll but the amount credited looks the same as last month. Can you check?,HR
+Request for employment verification letter,"I need an employment verification letter for a visa application, could someone from HR issue this on letterhead by early next week",HR
+Reimbursement not credited,"I submitted my travel reimbursement claim three weeks ago and it's still showing as pending, can someone follow up on the approval status",HR
+New hire laptop and equipment request,"the new analyst joining monday still hasn't been assigned a laptop through the hr onboarding system, can this be expedited before her start date",HR
+Query on notice period buyout,"If I want to leave earlier than my notice period, is there an option to buy out the remaining days? What's the process for that?",HR
+Partnership opportunity inquiry,"Hi team, we run a mid-size marketing agency and would love to explore a potential partnership or referral program with your platform. Who should we talk to?",General
+Feedback on new website design,"just wanted to say the new website redesign looks great, much cleaner than before, nice work to whoever worked on that",General
+Request to update company contact email,Could you please update our primary contact email on file from the old one to accounts@ourcompany.com going forward for all correspondence?,General
+Press inquiry about company milestones,I'm a journalist writing a piece on fast growing startups in the region and would like to request a short interview with someone from your leadership team.,General
+General question about your services,"hi, i came across your company through a friend and wanted to know more generally about what services you offer before deciding to sign up",General
+Newsletter subscription issue,"I signed up for the newsletter twice by mistake and now get duplicate emails every week, could you remove one of the subscriptions please",General
+Compliment for support team,"just wanted to send a quick note saying your support team helped me out really fast last week, appreciated the effort, thank you",General
+Event invitation inquiry,We're organizing a tech meetup next month and would love to invite your company as a speaker or sponsor. Let us know who to coordinate with.,General
+Feature suggestion for the product,"it would be really nice if you guys added dark mode to the app someday, just a small suggestion from a long time user",General
+Inquiry about career opportunities,"hello, i really admire what your company is building and wanted to know if there are any open roles for someone with a data background",General
+Request to be removed from mailing list,"Please remove me from all future marketing emails, I'm no longer interested in receiving updates from your company. Thanks in advance.",General
+Question about company office locations,"does your company have an office in bangalore or is everything remote right now, just curious as someone exploring potential collaboration",General
+General thank you note,"Just wanted to drop a quick thank you, your product genuinely made my workflow easier this quarter, appreciate the team's work.",General
+Vendor registration inquiry,We are a logistics vendor and would like to know the process to get registered as an approved vendor for your organization.,General
+Inquiry about CSR initiatives,I'm curious if your company has any CSR or community outreach programs we could potentially collaborate on from our nonprofit's side.,General
